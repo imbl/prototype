@@ -1,0 +1,20 @@
+{
+  "name": "prototype",
+  "homepage": "https://github.com/imbl/prototype",
+  "description": "Web prototype",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5"
+  }
+}
